@@ -1,0 +1,59 @@
+preguntas generales de todas las 9 paginas 
+1) Un grupo de control seria una persona sana no? 
+2) que es un CNN 
+3) que es un modelo no supervisado y supervisado con referencia a neustra charla con la profesora 
+4) entonces historial clínico modelo multimodales y fotos? 
+5) Como deben justificarlo por escrito en la memoria? en un modelo? sin imágenes? como seria datos estructurados?
+6) entonces en la pagina 2 me dijiste crear un CNN desde 0? con imágenes sanas?
+7) esquema mental o un Excel con las columnas (features) que tienen: tipo de cáncer, si tiene imagen asociada, datos del genoma, etc.. como seria esto en la parte 3
+8) entonces un modelo mutimodal con imágenes texto y excel? 
+9) búsqueda bibliográfica o mapa mental? 
+10) Ese CSV tendrá columnas como: Edad, Sexo, ¿Es fumador?, Nivel de contaminación de su ciudad, etc. donde encontraríamos esto? 
+11) que es NLP (Procesamiento de Lenguaje Natural) o un LLM para pedirle que organice ese "churraco" de texto en una tabla ordenada. que es todo eso? 
+12) a que se basaba con etiquetas eso no entendí bien 
+13) a que te refieres ocn librería Keras? 
+
+El problema de la Ventana de Contexto si estaba probando un Gemini o chatgpt y es normal eso entonces La deducción médica errónea de la IA: como haríamos esto? simplemente crear un modelo un CNN? con imágenes que solo piense is tiene cancer o no? 	
+
+14) fine tuning" (entrenar el modelo con datos nuevos) o usar "RAG" (pasarle documentos externos al modelo) en lugar de usar solo el modelo base. explícame mas de eso
+
+siéndote sincero no se por que hacemos pronts para gmeini o gwen no se la verdad ko dijo Oscar y le segui el rollo 
+
+15) que ees redimensionamiento???
+16) entonces las imágenes un con tamalo en especifico eso no es mas difícil? o mas fácil? 
+
+17) Grad-CAM (Gradient-weighted Class Activation Mapping). Grad-CAM es una librería de Python que crea un "mapa de calor" encima de la radiografía, pintando de rojo exactamente los píxeles que la red neuronal consideró que eran cáncer. quieres imprementar eso? 
+
+te lo repito no se por que hacemos pronts... ningún grupo hara eso creo crear pront nosotros no entiendo bien la estrategia de Oscar 
+
+guarda inmediatamente el enlace (URL), el nombre del autor del dataset y el tipo de licencia entonces hacer esto guárdalo 
+
+18) que es LoRA?
+
+Explica que entrenarán la CNN para comparar sus resultados con los de los modelos grandes, evaluando cuántas veces acierta cada uno y analizando el "consumo de recursos" entonces hacer una comparativa doble? 
+
+19) a que se refiere con exploratory data analysis?
+
+Intro/Estado del arte: Importancia del campo.
+
+Objetivos: Qué van a hacer.
+
+Metodología: Modelos clásicos, Deep Learning, combinación y datos a usar.
+
+Resultados y Discusión: Conclusiones sobre el enfoque.
+
+guarda esto 
+
+Utilizamos un dataset de Kaggle conocido para establecer un benchmark (punto de referencia)
+
+explciame esto 
+
+
+
+
+
+
+
+
+
+
